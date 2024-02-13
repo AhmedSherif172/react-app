@@ -1,0 +1,23 @@
+.line{
+    height: 4px;
+    width: 85px;
+    background-color: #2C3E50 ;
+}
+.portfolio{
+    color: #2C3E50;
+
+}
+.layer{
+    background-color: #1ABC9C;
+    opacity: 0;
+    transition: 0.5s;
+}
+.layer:hover{
+    opacity: 0.9;
+}
+.layer i{
+    font-size: 96px;
+}
+.imgclick{
+    background-color: rgba(0, 60, 255, 0.183);
+}

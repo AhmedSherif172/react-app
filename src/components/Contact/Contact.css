@@ -1,0 +1,31 @@
+.line{
+    height: 4px;
+    width: 85px;
+    background-color: #2C3E50 ;
+}
+.contact{
+    color: #2C3E50;
+
+}
+.send{
+    background-color: #1ABC9C;
+}
+.userinfo:focus{
+    outline: none;
+}
+#userNameDecor{
+    color: #1ABC9C;
+    top: 50%;
+}
+#userAgeDecor{
+    color: #1ABC9C;
+    top: 50%;
+}
+#userEmailDecor{
+    color: #1ABC9C;
+    top: 50%;
+}
+#userPasswordDecor{
+    color: #1ABC9C;
+    top: 50%;
+}

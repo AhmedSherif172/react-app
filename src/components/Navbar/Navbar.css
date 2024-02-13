@@ -1,0 +1,24 @@
+.homeNav{
+    font-size: 32px;
+    
+}
+.navbar{
+    background-color: #2C3E50;
+    transition: 0.5s;
+}
+.pages{
+    color: white;
+}
+.active{
+    background-color: #1ABC9C !important;
+    
+}
+#nav{
+    transition: 3s;
+}
+.notscrolled{
+    height: 106px;
+}
+.scrolled{
+    height: 76px ;
+}

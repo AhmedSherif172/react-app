@@ -1,0 +1,11 @@
+.logo{
+    width: 250px !important;
+}
+.background{
+    background-color: #1ABC9C;
+}
+.line{
+    height: 4px;
+    width: 85px;
+    background-color: white;
+}

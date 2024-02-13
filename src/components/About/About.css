@@ -1,0 +1,12 @@
+.background{
+    background-color: #1ABC9C;
+
+}
+.lineabout{
+    height: 4px;
+    width: 85px;
+    background-color: white !important;
+}
+.base{
+    height: 617px;
+}
